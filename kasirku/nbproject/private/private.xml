@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/kasirku/src/penjualan/koneksi/koneksi.java</file>
+            <file>file:/D:/kasirku/src/kasir/MenuUtama.java</file>
+            <file>file:/D:/kasirku/src/Background/Background1.java</file>
+            <file>file:/D:/kasirku/src/Background/Background2.java</file>
+            <file>file:/D:/kasirku/src/Background/ButtonTransparan.java</file>
+            <file>file:/D:/kasirku/src/Background/gam1.jpg</file>
+            <file>file:/D:/kasirku/src/Background/gam2.jpg</file>
+            <file>file:/D:/kasirku/src/Background/gam5.jpg</file>
+            <file>file:/D:/kasirku/src/Background/TextFieldTransparan.java</file>
+            <file>file:/D:/kasirku/src/Image/Logout.png</file>
+            <file>file:/D:/kasirku/src/Image/Keluar.png</file>
+            <file>file:/D:/kasirku/src/Image/Help.png</file>
+            <file>file:/D:/kasirku/src/Image/edit.png</file>
+            <file>file:/D:/kasirku/src/Image/About.png</file>
+            <file>file:/D:/kasirku/src/kasir/Login.java</file>
+            <file>file:/D:/kasirku/src/kasir/kasir.java</file>
+            <file>file:/D:/kasirku/src/penjualan/entity/barang.java</file>
+            <file>file:/D:/kasirku/src/penjualan/entity/pelanggan.java</file>
+            <file>file:/D:/kasirku/src/penjualan/entity/transaksi.java</file>
+            <file>file:/D:/kasirku/src/penjualan/implement/barangImplement.java</file>
+            <file>file:/D:/kasirku/src/penjualan/implement/pelangganImplement.java</file>
+            <file>file:/D:/kasirku/src/penjualan/implement/transaksiImplement.java</file>
+            <file>file:/D:/kasirku/src/penjualan/interfc/barangInterfc.java</file>
+            <file>file:/D:/kasirku/src/penjualan/interfc/pelangganInterfc.java</file>
+            <file>file:/D:/kasirku/src/penjualan/interfc/transaksiInterfc.java</file>
+            <file>file:/D:/kasirku/src/penjualan/koneksi/koneksiBarang.java</file>
+            <file>file:/D:/kasirku/src/penjualan/koneksi/koneksiPelanggan.java</file>
+            <file>file:/D:/kasirku/src/penjualan/view/barangReport.java</file>
+            <file>file:/D:/kasirku/src/penjualan/view/barangView.java</file>
+            <file>file:/D:/kasirku/src/penjualan/view/pelangganReport.java</file>
+            <file>file:/D:/kasirku/src/penjualan/view/pelangganView.java</file>
+            <file>file:/D:/kasirku/src/penjualan/view/transaksiView.java</file>
+        </group>
+    </open-files>
+</project-private>
